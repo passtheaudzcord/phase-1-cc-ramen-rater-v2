@@ -1,4 +1,4 @@
-# Phase 1 Code Challenge: Ramen Rater
+Code Challenge: Ramen Rater
 
 ## Learning Goals
 
